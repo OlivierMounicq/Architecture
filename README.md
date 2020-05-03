@@ -12,6 +12,7 @@
 [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)  
 [Category Theory For Programmers PDF](https://github.com/hmemcpy/milewski-ctfp-pdf)  
 [From Design Patterns To Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)  
+[Category Theory @ Wikipedia](https://en.wikipedia.org/wiki/Category_theory)
 
 
 ### Statistique
